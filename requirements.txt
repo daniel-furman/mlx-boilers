@@ -1,3 +1,4 @@
 sentencepiece
 mlx-lm
+asitop
 black

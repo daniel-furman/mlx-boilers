@@ -4,4 +4,10 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/release/python-390/) 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
 
+### mlx-lm
+
+*Note*: All notebooks & scripts ran on a 2021 Apple M1 Pro (base model specs)
+
+
+
 
